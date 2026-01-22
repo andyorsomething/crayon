@@ -257,9 +257,9 @@ def GlowColorChanger(inputOption):
                         print("Invalid color hex\n")
                         continue    
                     else:
-                        variables["cl_glow_survivor_health_medium_r"] = ColorParser(ColorHex)[0]
-                        variables["cl_glow_survivor_health_medium_g"] = ColorParser(ColorHex)[1]
-                        variables["cl_glow_survivor_health_medium_b"] = ColorParser(ColorHex)[2]
+                        variables["cl_glow_survivor_health_med_r"] = ColorParser(ColorHex)[0]
+                        variables["cl_glow_survivor_health_med_g"] = ColorParser(ColorHex)[1]
+                        variables["cl_glow_survivor_health_med_b"] = ColorParser(ColorHex)[2]
                         print(f"\nMedium Health Outline Color set to {ColorHex}")
                         input(ReturnToMainMenuString)
                         OpeningPrompt()
@@ -504,4 +504,5 @@ def ClearScreen():
 
 if __name__ == "__main__":
     OpeningPrompt()
+
 
