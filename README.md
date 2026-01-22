@@ -27,6 +27,8 @@ Crayon is a Python-based tool designed to help Left 4 Dead 2 players easily cust
 
 ## 📥 Installation
 
+Note on Windows SmartScreen: Because Crayon is a new, independent tool, Windows may display a "Windows protected your PC" warning. This is normal for unrecognized apps. To run the program, click "More info" and then select "Run anyway".
+
 ### Option 1: Using the Standalone App (Recommended)
 *Best for users who just want to use the tool without installing Python.*
 
@@ -71,5 +73,6 @@ Crayon is a Python-based tool designed to help Left 4 Dead 2 players easily cust
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/andyorsomething/crayon/issues).
 
 ## 📝 License
+
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
