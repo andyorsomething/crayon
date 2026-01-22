@@ -1,3 +1,4 @@
+[![Steam Guide](https://img.shields.io/badge/Steam_Guide-Read_Now-blue?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3651843640)
 # Crayon 🖍️
 
 **An automated outline color changer for Left 4 Dead 2.**
@@ -76,3 +77,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
